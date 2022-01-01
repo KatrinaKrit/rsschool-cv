@@ -39,22 +39,13 @@ body {
     padding: 0 40px;
   }
 
-  .main-container{
+
+  .footer-container{
     display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .section {
-    width: 50%;
+    justify-content: space-around;
   }
 
   .footer-text {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-    .footer-link{
-    padding: 0 20px;
-    line-height: 50px;
+    width: 33%;
+    text-align: center;
   }
